@@ -4,7 +4,7 @@ This is a console application which let you find available vaccination center in
 
 ## How to use
 ### Windows
-1. Download the utility from GitHub repo 
+1. Download the utility from GitHub repo (https://github.com/anujarya/vaccine_finder/blob/main/dist/vaccine_finder.exe )
 2. Execute the vaccine finder
 3. Input pin code and minimum age (18 or 45)
 
