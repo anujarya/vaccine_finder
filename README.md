@@ -1,4 +1,4 @@
-# Vaccine Finder
+# Vaccine Finder for India
 
 This is a console application which let you find available vaccination center in India based on pin code and minimum age (18 or 45).
 
